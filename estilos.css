@@ -50,6 +50,11 @@ footer{
 
 .cartão-interno{
     position: relative;
+    transition: transform 0.8s;
+}
+
+.cartao-hover .cartão-interno{
+    transform: rotate(180deg);
 }
 
     .cartão-frente,.cartão-verso {
@@ -62,3 +67,4 @@ footer{
  .cartão-verso{
     transform: rotateY(180deg);
  }
+
