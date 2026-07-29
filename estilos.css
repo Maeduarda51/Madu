@@ -39,7 +39,7 @@ main{
 
 h1{
     color: #c298be;
-    font-size: 18px;
+    font-size: 24px;
 }
 
 footer{
@@ -47,3 +47,12 @@ footer{
     padding: 15px 25px;
     color: #fff;
 }
+
+.cartão-interno{
+    position: relative;
+}
+
+    .cartão-frente,.cartão-verso {
+        position: absolute;
+
+    }
