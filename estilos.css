@@ -24,6 +24,7 @@ body{
    display: flex;
    flex-direction:column ;
    min-height: 100vh;
+   background-color: #896565;
 }
 
 main{
@@ -37,5 +38,5 @@ main{
 }
 
 h1{
-    color: #915959;
+    color: #f6e8e8;
 }
