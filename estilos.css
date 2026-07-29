@@ -56,5 +56,9 @@ footer{
         position: absolute;
         border-radius: 12px;
         box-shadow: 0 6px 12px rgba(rgb(213, 155, 155), rgb(143, 189, 143), rgb(91, 91, 162), alpha);
+         backface-visibility: hidden;
+ }
 
-    }
+ .cartão-verso{
+    transform: rotateY(180deg);
+ }
