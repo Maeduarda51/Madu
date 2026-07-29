@@ -38,10 +38,12 @@ main{
 }
 
 h1{
-    color: #f6e8e8;
+    color: #c298be;
+    font-size: 18px;
 }
 
 footer{
     background-color: #896565;
     padding: 15px 25px;
+    color: #fff;
 }
